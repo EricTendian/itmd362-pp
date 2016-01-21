@@ -38,6 +38,13 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems, you might be able to customize the shortcuts to your own liking):
 
+Win-S - desktop overview
+Ctrl-Alt-Up - move to virtual desktop above
+Ctrl-Alt-Down - move to virtual desktop below
+Ctrl-Alt-Left - move to virtual desktop to the left
+Ctrl-Alt-Right - move to virtual desktop to the right
+Ctrl-Alt-1 - switch to first virtual desktop
+Ctrl-Alt-2...n - switch to the nth virtual desktop
 
 3. Set up a distraction-free browser.
 
