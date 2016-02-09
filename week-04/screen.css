@@ -57,6 +57,13 @@ body, input {
     font-size: 1.25em;
 }
 
+body, input, textarea {
+    font-family: Arial, sans-serif;
+}
+.wf-active body, .wf-active input, .wf-active textarea {
+    font-family: 'Open Sans';
+}
+
 form {
     width: 100%;
     max-width: 15em;
@@ -76,4 +83,5 @@ input, textarea {
 
 textarea {
     resize: vertical;
+    height: 5em;
 }
