@@ -49,4 +49,31 @@ table {
 
 /* ========= CSS RESET END ========= */
 
-/* Custom styles go here */
+body {
+    padding: 0.5em;
+}
+
+body, input {
+    font-size: 1.25em;
+}
+
+form {
+    width: 100%;
+    max-width: 15em;
+    margin: 2em auto;
+}
+
+label {
+    display: block;
+    padding-bottom: 0.25em;
+}
+
+input, textarea {
+    margin-bottom: 1em;
+    display: block;
+    width: 100%;
+}
+
+textarea {
+    resize: vertical;
+}
