@@ -31,8 +31,11 @@ soil or yellow produce. The middle shade of yellow is bright to indicate freshne
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.png
+Explanation of your color choices: When I think of a banking website, I imagine subdued colors, mostly
+greyscale with a hint of blue, green, or red. In this case I chose to go with a light blue, which
+is a fairly neutral yet pleasant color that can pop out in certain uses. The blues were augmented
+with a light and dark grey, used for a background, button, or text.
 
 * A triadic palette for a website that offers games for children.
 
