@@ -23,8 +23,11 @@ hacker-esque feel with these colors.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: shaded.png
+Explanation of your color choices: The words "natural" and "organic" make me think of the earth and
+various earthy colors like browns, greens, and yellows. I chose different shades of yellow for this
+palette, leaning more towards a darker yellow that has hints of green, making it a color of brown
+soil or yellow produce. The middle shade of yellow is bright to indicate freshness, important for food.
 
 * A complementary palette for a banking website.
 
