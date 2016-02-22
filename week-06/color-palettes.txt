@@ -15,8 +15,11 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochrome.png
+Explanation of your color choices: Gaming and high-tech themes often include green text on a black
+background, which I wanted to come out in my color choices. The website would use the lighter greens
+for more eye-catching text and the very dark greens and black for backgrounds. I aim to give a
+hacker-esque feel with these colors.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
