@@ -39,5 +39,9 @@ with a light and dark grey, used for a background, button, or text.
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triadic.png
+Explanation of your color choices: Children often enjoy bright, eye-catching colors, which is what I
+tried to make use of with this palette. The different shades of blue can be used for buttons, and the
+red or yellow can enhance a page heading. Black should be used as either a background or text color.
+While not included in the palette, white is a good alternative or pairing to black text, especially
+on colored backgrounds.
