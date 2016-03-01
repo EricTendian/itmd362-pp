@@ -26,11 +26,24 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): Defer to Content (https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/#//apple_ref/doc/uid/TP40006556-CH66-SW2)
+* How you implemented it in your sketch: One of the methods to "defer to content" is "Reconsider
+  visual indicators of physicality and realism." For my design I implemented this by not giving the
+  login button any shadow, or any other element. The entire design is very flat and simple, putting
+  emphasis on the content of the login form instead of any individual interactive element.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): Provide Clarity (https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/#//apple_ref/doc/uid/TP40006556-CH66-SW3)
+* How you implemented it in your sketch: The simplicity of the design lends itself to being clear. I
+  made use of the recommendation "Use plenty of negative space." by spacing out the two input fields
+  (so they can be easily tapped by large fingers), as well as placing the forgot password link
+  opposite the login link (making it harder to accidentally click). For "Ensure legibility by using
+  the system font." I made all text Helvetica, and avoided unnecessary bolding when possible.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): Use Depth to Communicate (https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/#//apple_ref/doc/uid/TP40006556-CH66-SW4)
+* How you implemented it in your sketch: I conveyed hierarchy in this design through the order the
+  elements were placed on the screen. The most important part is the page title, followed by a logo
+  to make it more official and recognizable. Next, the header and input fields, always placing
+  labels above or equal to the interactive elements. Finally, the search box was placed at the
+  bottom due to it being the least important of all elements. If a user interacted with the search
+  box, it could expand upwards to show search results (as a layer above the regular page).
+
