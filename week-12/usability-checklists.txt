@@ -8,18 +8,19 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/
+2. https://www.nngroup.com/articles/ten-usability-heuristics/
+3. http://drpete.co/pdf/checklist.pdf
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Labels, headings and status/error messages use clear language which is familiar to the intended user.
+2. Interface follows conventions where appropriate to avoid confusing interaction patterns.
+3. User is always aware of status through timely feedback.
+4. There is little unecessary information on a page.
+5. Users can easily recover from errors.
+6. When possible, the interface prevents users from encountering errors.
+7. Visuals are accessible to users with low vision and adjusts to different screen sizes.
+8. Users have easy access to high-priority options and do not need to recall choices from memory.
+9. Power users are able to complete complex tasks easily.
+10. Relevant help/documentation is easily accessible from any page.
