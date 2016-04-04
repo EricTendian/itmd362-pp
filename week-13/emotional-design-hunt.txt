@@ -12,14 +12,14 @@ A. Photograph of the object (place in the week-12/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: The radio is boxy but has smooth curves and lines. It has a plain black color, making it look unassuming and professional.
 
-* Behavioral:
+* Behavioral: Textured surfaces are a prominent feature on the radio, such as the bumps on the side buttons and knobs. The large vertical bumps on the knob make it easy to turn with gloves on.
 
-* Reflective:
+* Reflective: The familiar shape of the radio, plus the logo on the front, makes its purpose clear as a professional two-way radio.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. Ergonomic - The object adapts to the user, rather than the user trying to adapt to the object.
+2. Recognizable - The object's design is familiar to what we have seen before and follows conventions.
+3. Authoritative - When looking at the object for the first time, it looks professional and able to get the job done well.
