@@ -10,6 +10,16 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
 
+- A_github-feed-desktop.png
+- A_github-feed-mobile.png
+
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
 
+- B_github-feed-desktop.png
+- I was unable to create a mobile view as GitHub does not support any sort of activity feed on mobile. However I would make it look something like the pull request or issue list on a repository as seen on mobile.
+
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+My modification is to add additional information to the GitHub news feed that a user sees on the homepage. I added the number of stars on the pertinent repo, as well as the description of the repo. For instances where a repo is forked, it would use the number of stars and description on the original repo. I think this would be a valuable improvement because I feel the feed is relatively sparse and underutilized.
+
+To implement the test, I would update the template that renders the feed to add the additional parameters in the HTML, using GitHub's existing style guide (http://primercss.io/). To track whether users prefer version A or B, I would use JavaScript's event listeners to track clicks on all links in the feed, sending click data to a server. The successful version would cause more clicks to links in the feed, a proxy for engagement.
